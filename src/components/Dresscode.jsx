@@ -16,7 +16,7 @@ const Dresscode = () => {
         minHeight: "30vh",
         py: 8,
         px: 2,
-        backgroundColor: "#DDE0CA", // verde pastel suave
+        backgroundColor: "#97B2CA", // verde pastel suave
         display: "flex",
         flexDirection: "column",
         alignItems: "center",

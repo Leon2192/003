@@ -8,7 +8,7 @@ const Confirm = () => {
         minHeight: "40vh",
         py: 8,
         px: 2,
-        backgroundColor: "#97B2CA",
+        backgroundColor: "#ffffff",
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
@@ -60,7 +60,7 @@ const Confirm = () => {
         {/* Botón */}
         <ButtonLinks
           label="Confirmar Asistencia"
-          href="https://docs.google.com/forms/d/e/1FAIpQLScxgDT68F2PwJIK1nRWFMeNmR_ZdwZzkcnVCX5l8q3i5-1L-A/viewform?usp=header"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSf-ST49yt4GCtdtIzy7PntJIpt49jiC11_nCnIgXa_cLTzNqA/viewform"
           newTab
         />
       </Box>

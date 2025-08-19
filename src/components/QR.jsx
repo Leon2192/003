@@ -63,7 +63,7 @@ const Qr = () => {
         minHeight: "30vh",
         py: 8,
         px: 2,
-        backgroundColor: "#4E7CB2",
+        backgroundColor: "#97B2CA",
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
@@ -82,7 +82,7 @@ const Qr = () => {
           <Box display="flex" justifyContent="center" mb={2}>
             <Box
               component="img"
-              src="/images/qr-logo.png"
+              src="/images/003/qr.png"
               alt="Código QR"
               sx={{ width: 200, height: 200, objectFit: "contain" }}
             />
@@ -127,7 +127,7 @@ const Qr = () => {
           <Box mt={2}>
             <QrButton
               label="Ir Al Album"
-              href="https://photos.app.goo.gl/irENLs3fg7bGSJ1m6"
+              href="https://photos.google.com/share/AF1QipNrbjwGmp91UljZg5KGeaKidRyuNzcJiyaPlZP4elnkH3FKRoISAJV_frMpwaeNjA?key=ZkNhRFQyNW12V1kwQXBadUFyaUh6WnFYQjQwZDB3"
               newTab
             />
           </Box>

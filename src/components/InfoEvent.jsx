@@ -23,7 +23,7 @@ const InfoEvent = () => {
       sx={{
         py: 6,
         px: 2,
-        backgroundColor: "#97B2CA",
+        backgroundColor: "#ffffff",
       }}
     >
       <Grid

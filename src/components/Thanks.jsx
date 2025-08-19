@@ -9,8 +9,8 @@ import {
     const theme = useTheme();
     const isMobile = useMediaQuery(theme.breakpoints.down("sm"));
   
-    const desktopImage = "/images/003/GRACIAS.png";
-    const mobileImage = "/images/003/GRACIAS.png";
+    const desktopImage = "/images/003/thankyou.png";
+    const mobileImage = "/images/003/thankyou.png";
   
    
   

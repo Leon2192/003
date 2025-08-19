@@ -122,7 +122,7 @@ const Hero = () => {
 </IconButton>
 
       {/* Audio element */}
-      <audio ref={audioRef} src="/song.mp3" preload="auto" />
+      <audio ref={audioRef} src="/song2.mp3" preload="auto" />
 
       {/* Flecha animada */}
       <Box
@@ -147,7 +147,7 @@ const Hero = () => {
           },
         }}
       >
-        <a href="#info" style={{ color: "#000000", textDecoration: "none" }}>
+        <a href="#info" style={{ color: "#5A7790", textDecoration: "none" }}>
           <KeyboardArrowDownIcon fontSize="inherit" />
         </a>
       </Box>
