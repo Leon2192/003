@@ -137,7 +137,7 @@ const Gift = () => {
 />
 
             <Typography variant="h6" fontWeight="bold" gutterBottom sx={{
-              fontFamily: "'Luxurious Script'",
+              fontFamily: "'Lejour'",
               fontSize: { xs: "2.5rem", md: "3.5rem" },
               color: "#536449",
               mb: 1,
@@ -146,21 +146,16 @@ const Gift = () => {
             </Typography>
 
             <Typography variant="body1" gutterBottom sx={{
-              fontFamily: "'Prata'",
+              fontFamily: "'Catchy'",
               fontSize: { xs: "1rem", md: "1.5rem" },
               color: "#536449",
               mb: 1,
-              fontWeight:600
+              fontWeight:700,
             }}>
-              Nombre del Titular: Carla Agustina Martinez
+              Nombre del Titular: Abril Lucia Maldonado Molas
               <br />
-              CBU: 0720126088000037692690
-              <br />
-              Alias: casamiento.sanycar
-              <br />
-              DNI: 40.003.711
-              <br />
-              Banco Santander 
+              Alias: abril.mld.mp
+        
             </Typography>
 
    

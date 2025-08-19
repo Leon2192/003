@@ -41,8 +41,8 @@ const InfoEvent = () => {
   src="/images/003/FIESTA.gif"
   alt="Ceremonia"
   sx={{
-    width: 125,       // equivalente a fontSize: 100
-    height: 125,
+    width: 200,       // equivalente a fontSize: 100
+    height: 200,
     mb: 1
   }}
 />
