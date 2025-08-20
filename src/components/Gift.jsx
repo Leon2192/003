@@ -66,7 +66,7 @@ const Gift = () => {
               mb: 4,
             }}
           >
-            Tu presencia es nuestro mejor regalo.  <br />
+            Tu presencia es mi mejor regalo.  <br />
             Pero si querés hacerme un obsequio...
           </Typography>
 
