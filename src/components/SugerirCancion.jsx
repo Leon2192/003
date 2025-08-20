@@ -65,7 +65,7 @@ const SuggestSong = () => {
                 mb: 4
             }}
           >
-            ¡Ayudanos sugiriendo las canciones que pensás que no pueden faltar en la fiesta!
+            ¡Ayudame sugiriendo las canciones que pensás que no pueden faltar en la fiesta!
           </Typography>
 
          <Button

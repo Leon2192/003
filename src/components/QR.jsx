@@ -109,7 +109,7 @@ const Qr = () => {
               mb: 2,
             }}
           >
-            ¡Compartí las fotos del evento con los anfitriones!
+            ¡Compartí las fotos que saques en mi cumpleaños conmigo!
           </Typography>
 
           <Typography
