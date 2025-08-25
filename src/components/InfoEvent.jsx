@@ -38,12 +38,12 @@ const InfoEvent = () => {
             <Box sx={{ textAlign: "center" }}>
             <Box
   component="img"
-  src="/images/003/FIESTA.gif"
+  src="/images/003/fiesta-review.gif"
   alt="Ceremonia"
   sx={{
     width: 200,       // equivalente a fontSize: 100
     height: 200,
-    mb: 1
+
   }}
 />
 
@@ -52,8 +52,8 @@ const InfoEvent = () => {
                 fontWeight="semibold"
                 gutterBottom
                 sx={{
-                  fontFamily: "'Lejour'",
-                  fontSize: { xs: "2.5rem", md: "3.5rem" },
+                  fontFamily: "'Italian'",
+                  fontSize: { xs: "5rem", md: "3.5rem" },
                   color: "#5A7790"
                 }}
               >

@@ -15,7 +15,7 @@ const SuggestSong = () => {
         minHeight: "40vh",
         py: 8,
         px: 2,
-        backgroundColor: "#739ED3", 
+        backgroundColor: "#CBE1F4", 
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
@@ -34,7 +34,7 @@ const SuggestSong = () => {
           {/* Icono con animación tipo "latido" */}
           <Box
   component="img"
-  src="/images/003/cancion.gif"
+  src="/images/003/sugerencia-review.gif"
   alt="Ceremonia"
   sx={{
     width: 125,       // equivalente a fontSize: 100

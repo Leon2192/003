@@ -43,7 +43,7 @@ const Countdown = () => {
       sx={{
         minHeight: "30vh",
         py: 6,
-        backgroundColor: "#739ED3",
+        backgroundColor: "#CBE1F4",
         display: "flex",
         flexDirection: "column",
         justifyContent: "center",
@@ -54,12 +54,12 @@ const Countdown = () => {
     >
         <Box
   component="img"
-  src="/images/003/confirm.gif"
+  src="/images/003/regresiva-review.gif"
   alt="Ceremonia"
   sx={{
     width: 125,       // equivalente a fontSize: 100
     height: 125,
-    mb: 1
+ 
   }}
 />
 
@@ -67,8 +67,8 @@ const Countdown = () => {
         <Box>
           <Typography
             sx={{
-              fontSize: { xs: "3.2rem", md: "4rem" },
-              fontFamily: "'Lejour'",
+              fontSize: { xs: "5rem", md: "4rem" },
+              fontFamily: "'Italian'",
               fontWeight: 500,
               mb: 1,
               color: "#5A7790",

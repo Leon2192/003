@@ -34,14 +34,14 @@ const Confirm = () => {
         <Typography
           variant="h4"
           sx={{
-            fontFamily: "'Lejour'",
+            fontFamily: "'Catchy'",
             fontSize: { xs: "2.5rem", md: "3.5rem" },
             color: "#5A7790",
             fontWeight: "semibold",
             mb: 2,
           }}
         >
-          Confirmacion de asistencia
+          Confirmación de asistencia
         </Typography>
 
         {/* Subtítulo más pequeño */}

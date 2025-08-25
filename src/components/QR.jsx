@@ -12,9 +12,9 @@ const QrButton = ({
   const baseSx = {
     borderRadius: 999,
     px: 4,
-    backgroundColor: "#ffffff",
+    backgroundColor: "#5A7790",
     fontFamily: "'Catchy'",
-    color: "#5A7790",
+    color: "#ffffff",
     boxShadow: "none",
     transition: "all 0.3s ease",
     ...(bounce && { animation: "bounceBtn 2s infinite" }),
@@ -63,7 +63,7 @@ const Qr = () => {
         minHeight: "30vh",
         py: 8,
         px: 2,
-        backgroundColor: "#97B2CA",
+        backgroundColor: "#E4F2FF",
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
@@ -91,9 +91,9 @@ const Qr = () => {
           <Typography
             variant="h4"
             sx={{
-              fontFamily: "'Lejour'",
-              fontSize: { xs: "2rem", md: "3.5rem" },
-              color: "#ffffff",
+              fontFamily: "'Italian'",
+              fontSize: { xs: "4.2rem", md: "3.5rem" },
+              color: "#5A7790",
               mb: 3,
             }}
           >
@@ -105,7 +105,7 @@ const Qr = () => {
             sx={{
               fontFamily: "'Catchy'",
               fontSize: { xs: "1.2rem", md: "1.5rem" },
-              color: "#ffffff",
+              color: "#5A7790",
               mb: 2,
             }}
           >
@@ -117,7 +117,7 @@ const Qr = () => {
             sx={{
               fontFamily: "'Catchy'",
               fontSize: { xs: "1.2rem", md: "1.5rem" },
-              color: "#ffffff",
+              color: "#5A7790",
               mb: 1,
             }}
           >

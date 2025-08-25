@@ -30,7 +30,7 @@ const Gift = () => {
       sx={{
         py: 8,
         px: 2,
-        backgroundColor: "#739ED3",
+        backgroundColor: "#CBE1F4",
         display: "flex",
         flexDirection: "column",
         alignItems: "center",

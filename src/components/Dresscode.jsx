@@ -16,7 +16,7 @@ const Dresscode = () => {
         minHeight: "30vh",
         py: 8,
         px: 2,
-        backgroundColor: "#97B2CA", // verde pastel suave
+        backgroundColor: "#E4F2FF", // verde pastel suave
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
@@ -33,7 +33,7 @@ const Dresscode = () => {
         >
             <Box
   component="img"
-  src="/images/003/suggested.gif"
+  src="/images/003/dresscode-review.gif"
   alt="Ceremonia"
   sx={{
     width: 125,       
@@ -45,8 +45,8 @@ const Dresscode = () => {
           <Typography
             variant="h4"
             sx={{
-              fontFamily: "'Lejour'",
-              fontSize: { xs: "2.5rem", md: "3.5rem" },
+              fontFamily: "'Italian'",
+              fontSize: { xs: "5rem", md: "3.5rem" },
               color: "#5A7790",
               fontWeight: "semibold",
               mb: 1,
